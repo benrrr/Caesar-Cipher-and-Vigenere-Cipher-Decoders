@@ -2,7 +2,7 @@
 
 GUI based decoders for Caesar Cipher and Vigenere Cipher. 
 
-## Caesar Cipher Decoder Steps
+## Caesar Cipher Brute Force Decoding Steps (English words only)
 1. Take the encrypted message.
 2. Loop through all possible keys.
 3. When each key is applied, check how many words present in the output are in the English dictionary.
@@ -11,7 +11,7 @@ GUI based decoders for Caesar Cipher and Vigenere Cipher.
 
 ![Caesar Decoder Example](https://i.imgur.com/eCqmZE7.jpg "Caesar Decoder Example")
 
-### Vigenere Cipher Decoder Steps
+### Vigenere Cipher Decoding Steps
 1. Take encrypted message.
 2. Take the key.
 3. Apply key to encrypted message.
