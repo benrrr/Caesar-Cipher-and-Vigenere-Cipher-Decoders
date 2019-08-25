@@ -1,5 +1,3 @@
-# Caesar Cipher and Vigenere Cipher Decoders
-
 GUI based decoders for Caesar Cipher and Vigenere Cipher. 
 
 ## Caesar Cipher Brute Force Decoding Steps (English words only)
